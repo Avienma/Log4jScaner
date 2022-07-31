@@ -17,7 +17,7 @@ Usage：
   --ldap-addr CUSTOM_DNS_CALLBACK_ADDR                  DNSlog监测平台
   
                       
-  --request-type REQUEST_TYPE                           请求数据类型(all为全部）
+  --request-type get，post，all                          请求数据类型(all为全部）
                         
                         
 用法如图
